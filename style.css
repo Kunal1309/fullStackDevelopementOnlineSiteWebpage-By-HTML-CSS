@@ -1,0 +1,143 @@
+
+
+.header{
+    background-color: rgb(25, 9, 58);
+    color: goldenrod;
+    position: fixed;
+    width: 99%;
+    border-radius: 20px;
+}
+.abc{
+    float: left;
+    width: 70%;
+    padding-left: 60px;
+    font-size: 30px;
+}
+ .a{
+    margin: 30px;
+    margin-top: 45px;
+    background-color: rgb(25, 9, 58);
+ }
+ .body1{
+    background-color: #c15355;
+    height: 250px;
+    text-align: center;
+    padding: 20px;
+    padding-top: 120px;
+    line-height: 0%;
+    color: white;
+ }
+  .head1{
+    font-size: 60px;
+  }
+  span{
+    background-color: #c15355;
+    float: left;
+  }
+  .head2{
+    clear: left;
+    padding: 50px;
+    padding-left: 150px;
+    padding-bottom: 2%;
+    background-color: white;
+    height: 200px;
+  }
+  .section{
+    width: 22%;
+    height: 50px;
+    float: left;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  .my{
+    clear: left;
+    background-color: #c15355;
+    height: 400px;
+    padding: 30px;
+
+  }
+  .div{
+    width: 100%;
+    text-align: center;
+    line-height: 0%;
+    margin-bottom: 50px;
+  }
+  .mahesh{
+    width: 120px;
+    height: 160px;
+    border-radius: 50%;
+    margin: 12px;
+  }
+  .myimage{
+    float:left;
+    padding-left: 30px;
+    padding-right: 30px;
+    border: 2px solid gray;
+    height: 300px;
+    width: 150px;
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: #c15355;
+}
+.div9{
+  text-align: center;
+  line-height: 1px;
+}
+.mahesh2{
+    padding-left: 200px;
+}
+  .div1{
+    clear: left;
+    height: 80px;
+    text-align: center;
+    line-height: 2%;
+    padding: 50px;
+    color: #c15355;
+  }
+  .div5{
+    height: 70px;
+    width: 400px;
+  }
+  img{
+    height: 200px;
+    width: 400px;
+    margin: 0px;
+  }
+  .image{
+    width: 400px;
+    height: 300px;
+    float:left;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  .like{
+    padding-left: 250px;
+    height: 350px;
+  }
+.aircampus{
+  width: 90px;
+  height: 40px;
+  margin-left: 95px;
+  border-radius: 10px;
+}
+article{
+  clear: left;
+  background-color: rgb(3, 3, 44);
+  color: goldenrod;
+  text-align: start;
+  padding-left: 50px;
+  height: 150px;
+  border-radius: 20px;
+}
+.top{
+  position: fixed;
+  width: 60px;
+  height: 60px;
+  bottom: 40px;
+  background-color: gold;
+  right:30px;
+  border-radius: 50%;
+  color: rgb(13, 4, 48);
+  text-align: center;
+  margin: 40PX;
+}
